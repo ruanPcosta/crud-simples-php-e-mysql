@@ -1,7 +1,7 @@
 <h1> Cadastrar um usuario </h1>
 <form method= "POST" action="cadastrar_action.php">
     <fieldset>
-        <legend>Campo de cadastro
+        <legend>Campo de cadastro</legend>
     <p>       
 <label>
      Seu nome: <input type="text" name= "nome"/>>
